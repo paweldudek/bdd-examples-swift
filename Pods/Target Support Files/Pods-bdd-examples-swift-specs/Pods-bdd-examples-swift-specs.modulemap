@@ -1,0 +1,6 @@
+framework module Pods_bdd_examples_swift_specs {
+  umbrella header "Pods-bdd-examples-swift-specs-umbrella.h"
+
+  export *
+  module * { export * }
+}
